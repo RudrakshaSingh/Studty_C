@@ -1,0 +1,21 @@
+&a -address of address
+
+--------------------------------
+%-format specifier
+%d - integer
+%f - float
+%c - character
+
+--------------------------------
+scanf("%d", &a);
+printf("The value of a is %d", a);
+
+--------------------------------
+//escape sequences 
+\n -new line
+\t -space equal to tab
+\" -to insert a double quote inside double quote in printf
+\\ -to insert a \ inside double quote in printf
+%% -to insert a % inside double quote in printf
+--------------------------------
+f = ((9.0/5.0)*c) + 32; //you have to write 9.0 5.0 to get correct value or it take it as integer

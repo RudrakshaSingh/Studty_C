@@ -1,0 +1,1 @@
+press alt and press mouse for mutiple =multi cursor functionality of vscode
