@@ -6,6 +6,9 @@
 %f - float
 %c - character
 
+%.2f=>2 place after decimal
+%d ko char ke liye use krege toh uski ascii value dedega
+
 --------------------------------
 scanf("%d", &a);
 printf("The value of a is %d", a);
@@ -18,4 +21,23 @@ printf("The value of a is %d", a);
 \\ -to insert a \ inside double quote in printf
 %% -to insert a % inside double quote in printf
 --------------------------------
+
 f = ((9.0/5.0)*c) + 32; //you have to write 9.0 5.0 to get correct value or it take it as integer
+
+--------------------------------
+//relational operatords
+  ==  ,  >=  ,  >  ,  <  ,  <=  ,!=
+
+//logical operatords
+    && and ,  || or ,  ! not
+
+//operator precedance
+    !
+    * , / , %
+    + , -
+    <> , <= , >=
+    == , !=
+    &&
+    11
+    =
+
