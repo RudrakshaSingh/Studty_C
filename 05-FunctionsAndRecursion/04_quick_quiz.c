@@ -6,3 +6,5 @@ int main(){
     printf("The area of this square is %f\n", pow(a, 2));
     return 0;
 }
+
+//pow always return a double value

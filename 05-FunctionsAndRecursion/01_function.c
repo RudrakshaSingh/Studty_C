@@ -8,6 +8,7 @@ void dis();
 
 
 // Function definition
+//parameters
 int sum(int x, int y){
     // printf("The sum is %d\n", x+y);
     return x+y;
@@ -20,6 +21,7 @@ int main(){
     // int c = a + b;
     // printf("The sum is %d\n", c);
     int c  = sum(a,b); // Function call
+    //arguments
     printf("%d\n", c);
 
     int a1 = 12;

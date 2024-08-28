@@ -1,3 +1,9 @@
+//Write a programme with three functions
+//Good morning function which prints good morning function which prints "good morning"
+//Good afternoon function which prints good morning function which prints "good afternoon"
+//Good night function which prints good morning function which prints "good night"
+
+
 #include <stdio.h>
 
 void good_morning();

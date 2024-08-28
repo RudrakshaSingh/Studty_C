@@ -6,6 +6,7 @@ int factorial(int);
     // Factorial(3) = 1 X 2 X 3
     // Factorial(n) = 1 x 2 X 3 X .... X n-1 X n
     //  = 1 x 2 X 3 X .... X n-1
+    //factorial can only be 0 or +ve integer
 
 int factorial(int n){ 
     if(n == 1 || n == 0){ // Base condition
