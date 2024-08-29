@@ -10,7 +10,7 @@ int main(){
     printf(" \n");
 
     //%u is for unsigned integer
-
+    // Prints the number in decimal (base 10) format.
     printf("The value at address j is %d\n", *(&i));
 
     return 0;
