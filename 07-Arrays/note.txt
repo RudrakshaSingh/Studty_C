@@ -1,0 +1,2 @@
+In C, arrays are closely related to pointers. When you pass an array to a function 
+(like target or source), you are passing a pointer to the first element of the array.
