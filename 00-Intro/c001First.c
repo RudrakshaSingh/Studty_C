@@ -14,3 +14,6 @@ int main(){
 }
 
 // .exe is executable for windows only 
+
+
+//c is low lwvwl language
